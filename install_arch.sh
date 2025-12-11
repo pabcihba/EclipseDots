@@ -20,7 +20,7 @@ confirm_action() {
     esac
 }
 
-REPO_URL="https://github.com/pabcihba/EclipseDots"
+REPO_URL="https://github.com/painvision/EclipseDots"
 INSTALL_DIR="$HOME/.eclipsedots"
 SOURCE_CONFIG="$INSTALL_DIR/dots/.config"
 TARGET_CONFIG="$HOME/.config"
