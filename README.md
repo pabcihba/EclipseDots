@@ -1,8 +1,8 @@
-# 𝐄𝐜𝐥𝐢𝐩𝐬𝐞 𝐃𝐨𝐭𝐟𝐢𝐥𝐞𝐬 <sup>[...keybinds](https://github.com/pabcihba/EclipseDots/blob/main/keybinds.md)</sup>
+# 𝐄𝐜𝐥𝐢𝐩𝐬𝐞 𝐃𝐨𝐭𝐟𝐢𝐥𝐞𝐬 <sup>[...𝐤𝐞𝐲𝐛𝐢𝐧𝐝𝐬](https://github.com/pabcihba/EclipseDots/blob/main/keybinds.md)</sup>
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f020d1e4-463e-4634-92b5-f75642724984" />
                                                                     
-# Features
+# 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 ```
 [📃] fish, fastfetch and kitty configs
 [🎨] Wallpaper-based colorschemes for everything 
@@ -15,7 +15,7 @@
 [🚀] Keybinds to control your mouse using keyboard
 [💻] Some gestures for laptop users
 ```
-And all the features of [Noctalia Shell](https://github.com/noctalia-dev/noctalia-shell):
+𝐀𝐧𝐝 𝐚𝐥𝐥 𝐭𝐡𝐞 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐨𝐟 [𝐍𝐨𝐜𝐭𝐚𝐥𝐢𝐚 𝐒𝐡𝐞𝐥𝐥](https://github.com/noctalia-dev/noctalia-shell):
 ```
 [🙂‍↔️] Easily customizable panel
 [🔒] Lockscreen
