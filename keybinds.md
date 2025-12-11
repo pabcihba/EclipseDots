@@ -80,6 +80,18 @@
 
 `⌘ Super + Period "."` - Emoji picker
 
+# Wallpaper management
+
+`⌘ Super + CTRL + w` - Toggle wallpaper picker
+
+`⌘ Super + SHIFT + W` - Random wallpaper
+
+# Notification management
+
+`⌘ Super + SHIFT + N ` - Toggle 'Do Not Disturb' mode
+
+`⌘ Super + CTRL + N ` - Clear all notifications
+
 # Power profiles for laptops
 
 `⌘ Super + CTRL + S` - Eco power profile
@@ -93,19 +105,6 @@
 `⌘ Super + E ` - File explorer (nemo)
 
 `⌘ Super + B` - Opens firefox
-
-# Notification management
-
-`⌘ Super + SHIFT + N ` - Toggle 'Do Not Disturb' mode
-
-`⌘ Super + CTRL + N ` - Clear all notifications
-
-# Wallpaper management
-
-`⌘ Super + CTRL + w` - Toggle wallpaper picker
-
-`⌘ Super + SHIFT + W` - Random wallpaper
-
 # Mouse controlling with keyboard
 
 `ALT + (arrow keys)` - Cursor controlling

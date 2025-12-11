@@ -90,6 +90,8 @@ fi
 
 hyprctl reload -q
 
+systemctl enable --user hyprpolkitagent
+
 log "=== Installation complete! ==="
 log "Install hyprland plugins manually:"
 log "hyprpm update; hyprpm add https://github.com/virtcode/hypr-dynamic-cursors; hyprpm add https://github.com/hyprwm/hyprland-plugins; hyprpm enable dynamic-cursors; hyprpm enable hyprbars"
