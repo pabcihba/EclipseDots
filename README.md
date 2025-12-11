@@ -1,4 +1,4 @@
-# 𝐄𝐜𝐥𝐢𝐩𝐬𝐞 𝐃𝐨𝐭𝐟𝐢𝐥𝐞𝐬 <sup>[...𝐤𝐞𝐲𝐛𝐢𝐧𝐝𝐬](https://github.com/pabcihba/EclipseDots/blob/main/keybinds.md)</sup>
+# 𝐄𝐜𝐥𝐢𝐩𝐬𝐞 𝐃𝐨𝐭𝐟𝐢𝐥𝐞𝐬 <sup>[𝐤𝐞𝐲𝐛𝐢𝐧𝐝𝐬 ](https://github.com/pabcihba/EclipseDots/blob/main/keybinds.md) | [𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬](https://github.com/pabcihba/EclipseDots/blob/main/features.md)</sup>
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f020d1e4-463e-4634-92b5-f75642724984" />
 
