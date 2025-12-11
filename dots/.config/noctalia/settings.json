@@ -436,7 +436,7 @@
         "transitionDuration": 1500,
         "transitionEdgeSmoothness": 1,
         "transitionType": "wipe",
-        "useWallhaven": true,
+        "useWallhaven": false,
         "wallhavenCategories": "111",
         "wallhavenOrder": "desc",
         "wallhavenPurity": "100",
