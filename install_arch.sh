@@ -52,7 +52,7 @@ else
 fi
 
 yay -S --needed --noconfirm \
-    kitty nemo firefox btop ydotool quickshell matugen \
+    hyprland kitty nemo firefox btop ydotool quickshell matugen \
     gpu-screen-recorder brightnessctl ddcutil cliphist cava \
     wlsunset xdg-desktop-portal python3 evolution-data-server \
     polkit-kde-agent cmake meson cpio pkg-config git gcc matugen noctalia-shell
